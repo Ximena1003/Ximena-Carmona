@@ -18,7 +18,7 @@
 
 ## 🚀 Proyectos Destacados
 - [Control de Calidad Rutas Urbanas – Automatización de Pruebas con Selenium](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git) 
-- [Proyecto Urban Grocers - Pruebas API Kits] (https://github.com/Ximena1003/qa-project-Urban-Grocers-app-es.git)
+- [Proyecto Urban Grocers - Pruebas API Kits](https://github.com/Ximena1003/qa-project-Urban-Grocers-app-es.git)
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ximena-carmona-1951b8352)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ximenaarias1003@gmail.com)  
 
 ---
