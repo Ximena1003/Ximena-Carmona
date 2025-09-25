@@ -1,7 +1,8 @@
+
 # Ximena-Carmona
 My public profile
 
-![Banner QA](https://raw.githubusercontent.com/ayusharma/banners/main/qa-banner.png)
+(https://raw.githubusercontent.com/ayusharma/banners/main/qa-banner.png)
 
 
 ## 🚀 Intereses  
