@@ -2,7 +2,9 @@
 # Ximena-Carmona
 My public profile
 
-(https://raw.githubusercontent.com/ayusharma/banners/main/qa-banner.png)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 
 
 ## 🚀 Intereses  
