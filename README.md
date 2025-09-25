@@ -24,7 +24,6 @@
 
 ## 🎯 Roadmap 2025
 - ✅ Mejorar automatización de pruebas con Cypress  
-- 🚀 Aprender Playwright  
 - 🔄 Profundizar en DevOps para QA  
 - 💡 Escribir artículos sobre QA y Talento Humano  
 
@@ -43,7 +42,7 @@
 
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][ximenaarias1003@gmail.com]  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] 
 
 ---
 
