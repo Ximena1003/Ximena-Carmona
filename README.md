@@ -1,9 +1,4 @@
 
-
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-
 # 👋 ¡Hola, soy Ximena!  
 
 ✨ Administradora de Empresas | Especialista en Talento Humano | Apasionada por el **Quality Assurance**  
@@ -22,7 +17,7 @@
 ---
 
 ## 🚀 Proyectos Destacados
-- [Automatización de pruebas con Cypress](https://github.com/TU-USUARIO/proyecto-cypress)  
+- [[Automatización de pruebas con Cypress](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git)]  
 - [Pruebas API con Postman](https://github.com/TU-USUARIO/postman-tests)  
 
 ---
