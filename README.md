@@ -17,8 +17,8 @@
 ---
 
 ## 🚀 Proyectos Destacados
-- [[Automatización de pruebas con Cypress](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git)]  
-- [Pruebas API con Postman](https://github.com/TU-USUARIO/postman-tests)  
+- [[Control de Calidad Rutas Urbanas – Automatización de Pruebas con Selenium](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git)]  
+- [Pruebas API con Postman](https://github.com/TU-USUARIO/postman-tests)]  
 
 ---
 
