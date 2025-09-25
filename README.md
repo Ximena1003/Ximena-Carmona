@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Proyectos Destacados
-- [Control de Calidad Rutas Urbanas – Automatización de Pruebas con Selenium (https://github.com/Ximena1003/qa-project-Urban-Routes-es.git) 
+- [Control de Calidad Rutas Urbanas – Automatización de Pruebas con Selenium](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git) 
 - Proyecto Urban Grocers - Pruebas API Kits (https://github.com/TU-USUARIO/postman-tests)
 
 ---
