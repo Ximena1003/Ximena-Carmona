@@ -6,8 +6,7 @@
 🚀 Me interesa la intersección entre talento humano, innovación y tecnología.  
 
 ---
-
-![Header](./Github-header-banner.png)
+![Header](https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/main/github-header-banner.png)
 
 ## 🛠️ Tecnologías & Herramientas
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
