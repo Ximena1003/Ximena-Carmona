@@ -24,7 +24,6 @@
 ## 🚀 Proyectos Destacados
 - [Automatización de pruebas con Cypress](https://github.com/TU-USUARIO/proyecto-cypress)  
 - [Pruebas API con Postman](https://github.com/TU-USUARIO/postman-tests)  
-- [Documentación QA – Buenas prácticas](https://github.com/TU-USUARIO/qa-docs)  
 
 ---
 
